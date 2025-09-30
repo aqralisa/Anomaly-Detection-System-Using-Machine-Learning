@@ -9,4 +9,7 @@ classification in IoT environments.
 metrics such as accuracy, precision, recall and F1-score. 
 3. To integrate confidence scoring on the best machine learning model. 
 4. To provide a visualization dashboard to showcase the model's result comparison, 
-anomaly detection overview and the chosen model's confidence scoring. 
+anomaly detection overview and the chosen model's confidence scoring.
+
+### Dataset
+https://www.kaggle.com/datasets/supplejade/rt-iot2022real-time-internet-of-things
