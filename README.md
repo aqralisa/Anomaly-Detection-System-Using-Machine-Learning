@@ -1,6 +1,6 @@
 # Anomaly-Detection-System-Using-Machine-Learning
 Final Year Project as A Bachelor Degree in Computer Science (Data Science)
-Objectives:
+### Objectives:
 1. To compare Supervised Machine Learning algorithms, including Decision Trees, 
 Random Forests, Support Vector Machines (SVMs), Logistic Regression, K
 Nearest Neighbors (KNN), and Gradient Boosting Regression for anomaly 
